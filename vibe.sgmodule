@@ -1,0 +1,13 @@
+#!name=Vibe Coding Rules
+#!category=Custom
+#!desc=Vibe Coding Rules
+[Rule]
+DOMAIN-SUFFIX,chatgpt.com,⚡️🇺🇸 美国1丨3x
+DOMAIN-SUFFIX,openai.com,⚡️🇺🇸 美国1丨3x
+DOMAIN-SUFFIX,oaistatic.com,⚡️🇺🇸 美国1丨3x
+DOMAIN-SUFFIX,claude.com,⚡️🇺🇸 美国1丨3x
+DOMAIN-SUFFIX,anthropic.com,⚡️🇺🇸 美国1丨3x
+DOMAIN-SUFFIX,claude.ai,⚡️🇺🇸 美国1丨3x
+DOMAIN-SUFFIX,copilot.microsft.com,Proxy
+
+
