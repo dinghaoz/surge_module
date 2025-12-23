@@ -14,3 +14,6 @@ DOMAIN-SUFFIX,copilot.microsoft.com,Proxy
 DOMAIN-SUFFIX,gemini.google.com,⚡️🇺🇸 香港专线2→美国丨5x
 PROCESS-NAME,*Antigravity*,⚡️🇺🇸 美国1丨3x
 PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,⚡️🇺🇸 美国1丨3x
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,⚡️🇺🇸 美国1丨3x
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,⚡️🇺🇸 美国1丨3x
+
