@@ -5,11 +5,6 @@
 *.google.com = server:8.8.8.8
 *.googleapis.com = server:8.8.8.8
 
-[Proxy]
-HuggingFace = trojan, whatchamacallit.dpdns.org, 443, password=ea60d290-bc08-480c-92ab-a019ecb93ae0, tls=true, sni=whatchamacallit.dpdns.org, skip-cert-verify=false, ws=true, ws-path=/ea60d290, ws-headers=Host:whatchamacallit.dpdns.org
-
-[Proxy Group]
-Proxy = %APPEND% HuggingFace
 
 [Rule]
 DOMAIN,localhost,DIRECT
