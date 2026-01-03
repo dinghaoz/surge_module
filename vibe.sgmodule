@@ -1,10 +1,6 @@
 #!name=Vibe Coding Rules
 #!category=Custom
 #!desc=Vibe Coding Rules
-[Host]
-*.google.com = server:8.8.8.8
-*.googleapis.com = server:8.8.8.8
-
 
 [Rule]
 DOMAIN,localhost,DIRECT
