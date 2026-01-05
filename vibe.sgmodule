@@ -4,18 +4,18 @@
 
 [Rule]
 DOMAIN,localhost,DIRECT
-DOMAIN-SUFFIX,antigravity.google,⚡️🇺🇸 美国1丨3x
-DOMAIN-SUFFIX,antigravity-unleash.goog,⚡️🇺🇸 美国1丨3x
-DOMAIN-SUFFIX,chatgpt.com,⚡️🇺🇸 美国1丨3x
-DOMAIN-SUFFIX,openai.com,⚡️🇺🇸 美国1丨3x
-DOMAIN-SUFFIX,oaistatic.com,⚡️🇺🇸 美国1丨3x
-DOMAIN-SUFFIX,claude.com,⚡️🇺🇸 美国1丨3x
-DOMAIN-SUFFIX,anthropic.com,⚡️🇺🇸 美国1丨3x
-DOMAIN-SUFFIX,claude.ai,⚡️🇺🇸 美国1丨3x
+DOMAIN-SUFFIX,antigravity.google,⚡️🇺🇸 香港专线2→美国丨5x
+DOMAIN-SUFFIX,antigravity-unleash.goog,⚡️🇺🇸 香港专线2→美国丨5x
+DOMAIN-SUFFIX,chatgpt.com,⚡️🇺🇸 香港专线2→美国丨5x
+DOMAIN-SUFFIX,openai.com,⚡️🇺🇸 香港专线2→美国丨5x
+DOMAIN-SUFFIX,oaistatic.com,⚡️🇺🇸 香港专线2→美国丨5x
+DOMAIN-SUFFIX,claude.com,⚡️🇺🇸 香港专线2→美国丨5x
+DOMAIN-SUFFIX,anthropic.com,⚡️🇺🇸 香港专线2→美国丨5x
+DOMAIN-SUFFIX,claude.ai,⚡️🇺🇸 香港专线2→美国丨5x
 DOMAIN-SUFFIX,copilot.microsoft.com,Proxy
 DOMAIN-SUFFIX,gemini.google.com,⚡️🇺🇸 香港专线2→美国丨5x
-PROCESS-NAME,*Antigravity*,⚡️🇺🇸 美国1丨3x
-PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,⚡️🇺🇸 美国1丨3x
-PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,⚡️🇺🇸 美国1丨3x
-PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,⚡️🇺🇸 美国1丨3x
+PROCESS-NAME,*Antigravity*,⚡️🇺🇸 香港专线2→美国丨5x
+PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,⚡️🇺🇸 香港专线2→美国丨5x
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,⚡️🇺🇸 香港专线2→美国丨5x
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,⚡️🇺🇸 香港专线2→美国丨5x
 
