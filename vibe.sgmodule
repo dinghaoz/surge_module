@@ -4,18 +4,18 @@
 
 [Rule]
 DOMAIN,localhost,DIRECT
-DOMAIN-SUFFIX,antigravity.google,⚡️🇺🇸 香港专线2→美国丨6x
-DOMAIN-SUFFIX,antigravity-unleash.goog,⚡️🇺🇸 香港专线2→美国丨6x
-DOMAIN-SUFFIX,chatgpt.com,⚡️🇺🇸 香港专线2→美国丨6x
-DOMAIN-SUFFIX,openai.com,⚡️🇺🇸 香港专线2→美国丨6x
-DOMAIN-SUFFIX,oaistatic.com,⚡️🇺🇸 香港专线2→美国丨6x
-DOMAIN-SUFFIX,claude.com,⚡️🇺🇸 香港专线2→美国丨6x
-DOMAIN-SUFFIX,anthropic.com,⚡️🇺🇸 香港专线2→美国丨6x
-DOMAIN-SUFFIX,claude.ai,⚡️🇺🇸 香港专线2→美国丨6x
+DOMAIN-SUFFIX,antigravity.google,⚡️🇺🇸 香港专线3→美国丨6x
+DOMAIN-SUFFIX,antigravity-unleash.goog,⚡️🇺🇸 香港专线3→美国丨6x
+DOMAIN-SUFFIX,chatgpt.com,⚡️🇺🇸 香港专线3→美国丨6x
+DOMAIN-SUFFIX,openai.com,⚡️🇺🇸 香港专线3→美国丨6x
+DOMAIN-SUFFIX,oaistatic.com,⚡️🇺🇸 香港专线3→美国丨6x
+DOMAIN-SUFFIX,claude.com,⚡️🇺🇸 香港专线3→美国丨6x
+DOMAIN-SUFFIX,anthropic.com,⚡️🇺🇸 香港专线3→美国丨6x
+DOMAIN-SUFFIX,claude.ai,⚡️🇺🇸 香港专线3→美国丨6x
 DOMAIN-SUFFIX,copilot.microsoft.com,Proxy
-DOMAIN-SUFFIX,gemini.google.com,⚡️🇺🇸 香港专线2→美国丨6x
-PROCESS-NAME,*Antigravity*,⚡️🇺🇸 香港专线2→美国丨6x
-PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,⚡️🇺🇸 香港专线2→美国丨6x
-PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,⚡️🇺🇸 香港专线2→美国丨6x
-PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,⚡️🇺🇸 香港专线2→美国丨6x
+DOMAIN-SUFFIX,gemini.google.com,⚡️🇺🇸 香港专线3→美国丨6x
+PROCESS-NAME,*Antigravity*,⚡️🇺🇸 香港专线3→美国丨6x
+PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,⚡️🇺🇸 香港专线3→美国丨6x
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,⚡️🇺🇸 香港专线3→美国丨6x
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,⚡️🇺🇸 香港专线3→美国丨6x
 
