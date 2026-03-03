@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,anthropic.com,⚡️🇺🇸 香港专线2→美国丨6x
 DOMAIN-SUFFIX,claude.ai,⚡️🇺🇸 香港专线2→美国丨6x
 DOMAIN-SUFFIX,copilot.microsoft.com,Proxy
 DOMAIN-SUFFIX,gemini.google.com,⚡️🇺🇸 香港专线2→美国丨6x
+DOMAIN-SUFFIX,stitch.withgoogle.com,⚡️🇺🇸 香港专线2→美国丨6x
 PROCESS-NAME,*Antigravity*,⚡️🇺🇸 香港专线2→美国丨6x
 PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,⚡️🇺🇸 香港专线2→美国丨6x
 PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,⚡️🇺🇸 香港专线2→美国丨6x
