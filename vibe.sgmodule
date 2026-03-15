@@ -4,6 +4,7 @@
 
 [Rule]
 DOMAIN,localhost,DIRECT
+DOMAIN-SUFFIX,ts.net,DIRECT
 DOMAIN-SUFFIX,antigravity.google,⚡️🇺🇸 香港专线3→美国丨6x
 DOMAIN-SUFFIX,antigravity-unleash.goog,⚡️🇺🇸 香港专线3→美国丨6x
 DOMAIN-SUFFIX,chatgpt.com,⚡️🇺🇸 香港专线3→美国丨6x
