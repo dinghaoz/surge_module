@@ -9,6 +9,9 @@
 DOMAIN,localhost,DIRECT
 DOMAIN-SUFFIX,ts.net,DIRECT
 IP-CIDR,100.64.0.0/10,DIRECT
+
+DOMAIN-SUFFIX,client6.google.com,⚡️🇺🇸 香港专线2→美国丨6x
+DOMAIN-SUFFIX,aistudio.google.com,⚡️🇺🇸 香港专线2→美国丨6x
 DOMAIN-SUFFIX,antigravity.google,⚡️🇺🇸 香港专线2→美国丨6x
 DOMAIN-SUFFIX,antigravity-unleash.goog,⚡️🇺🇸 香港专线2→美国丨6x
 DOMAIN-SUFFIX,chatgpt.com,⚡️🇺🇸 香港专线2→美国丨6x
