@@ -11,24 +11,24 @@ DOMAIN-SUFFIX,ts.net,DIRECT
 IP-CIDR,100.64.0.0/10,DIRECT
 
 
-DOMAIN-SUFFIX,api.expo.dev,🇺🇸 美国1
-DOMAIN-SUFFIX,googleapis.com,🇺🇸 美国1
-DOMAIN-SUFFIX,apis.google.com,🇺🇸 美国1
-DOMAIN-SUFFIX,client6.google.com,🇺🇸 美国1
-DOMAIN-SUFFIX,aistudio.google.com,🇺🇸 美国1
-DOMAIN-SUFFIX,antigravity.google,🇺🇸 美国1
-DOMAIN-SUFFIX,antigravity-unleash.goog,🇺🇸 美国1
-DOMAIN-SUFFIX,chatgpt.com,🇺🇸 美国1
-DOMAIN-SUFFIX,openai.com,🇺🇸 美国1
-DOMAIN-SUFFIX,oaistatic.com,🇺🇸 美国1
-DOMAIN-SUFFIX,claude.com,🇺🇸 美国1
-DOMAIN-SUFFIX,anthropic.com,🇺🇸 美国1
-DOMAIN-SUFFIX,claude.ai,🇺🇸 美国1
+DOMAIN-SUFFIX,api.expo.dev,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,googleapis.com,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,apis.google.com,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,client6.google.com,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,aistudio.google.com,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,antigravity.google,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,antigravity-unleash.goog,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,chatgpt.com,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,openai.com,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,oaistatic.com,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,claude.com,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,anthropic.com,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,claude.ai,⚡️🇺🇸 香港专线1→美国丨6x,
 DOMAIN-SUFFIX,copilot.microsoft.com,Proxy
-DOMAIN-SUFFIX,gemini.google.com,🇺🇸 美国1
-DOMAIN-SUFFIX,stitch.withgoogle.com,🇺🇸 美国1
-PROCESS-NAME,*Antigravity*,🇺🇸 美国1
-PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,🇺🇸 美国1
-PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,🇺🇸 美国1
-PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,🇺🇸 美国1
+DOMAIN-SUFFIX,gemini.google.com,⚡️🇺🇸 香港专线1→美国丨6x,
+DOMAIN-SUFFIX,stitch.withgoogle.com,⚡️🇺🇸 香港专线1→美国丨6x,
+PROCESS-NAME,*Antigravity*,⚡️🇺🇸 香港专线1→美国丨6x,
+PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,⚡️🇺🇸 香港专线1→美国丨6x,
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,⚡️🇺🇸 香港专线1→美国丨6x,
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,⚡️🇺🇸 香港专线1→美国丨6x,
 
